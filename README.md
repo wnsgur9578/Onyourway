@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4e100dbd-836c-4bc9-9d18-26f297d6075c)![image](https://github.com/user-attachments/assets/6fd31e7e-490b-4e98-b7a1-f65ee90c0bbd)# 가던길_OnYourWay
+# 가던길_OnYourWay
 여행일정 웹 서비스
 ![image](https://github.com/user-attachments/assets/861e4513-2be9-4298-865a-210365e44206)
 
